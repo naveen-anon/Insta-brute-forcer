@@ -12,6 +12,11 @@ An advanced, high-performance command-line interface (CLI) replicate multi-threa
 * **Zero Dependencies:** Built entirely using native Python core packages—requires no external `pip` installations.
 
 ---
+### screenshots
+
+![Terminal Screenshot](assets/Screenshot_2026-05-27-09-41-49-10_84d3000e3f4017145260f7618db1d683.jpg)
+
+
 
 ## 🚀 Installation & Execution
 
