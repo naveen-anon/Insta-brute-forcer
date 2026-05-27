@@ -30,3 +30,11 @@ cd Insta-brute-forcer
 python insta_bruteforcer.py
 ```
 
+### 📊 Terminal Interface Layout
+```
+=======================================================================
+    ⚡ INSTAGRAM BRUTE-FORCE ATTACKING TOOL // AUTOMATED CLI v5.2 ⚡   
+=======================================================================
+
+[?] Enter Target Instagram Username: @target_user
+```
