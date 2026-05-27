@@ -38,3 +38,5 @@ python insta_bruteforcer.py
 
 [?] Enter Target Instagram Username: @target_user
 ```
+### ⚠️ Disclaimer
+IMPORTANT NOTICE: This repository is developed strictly for structured  technical auditing demonstrations and  security awareness verification. The script operates using a hardcoded evaluation threshold to demonstrate dictionary matching behaviors within a local interface context. Unauthorized utilization of testing vectors against endpoints without express explicit consent is prohibited. The operator assumes full responsibility regarding regulatory and compliance frameworks within their execution environment.
