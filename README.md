@@ -18,4 +18,10 @@ An advanced, high-performance command-line interface (CLI) replicate multi-threa
 ### 1. Clone the Repository
 Open your terminal (Kali Linux, Ubuntu, macOS, or Windows) and fetch the codebase directly from GitHub:
 ```bash
-git clone [https://github.com/naveen-anon/Insta-brute-forcer.git](https://github.com/naveen-anon/Insta-brute-forcer.git)
+git clone https://github.com/naveen-anon/Insta-brute-forcer.git
+```
+### 2. Navigate to Directory
+```
+cd Insta-brute-forcer
+```
+
