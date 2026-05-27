@@ -24,4 +24,9 @@ git clone https://github.com/naveen-anon/Insta-brute-forcer.git
 ```
 cd Insta-brute-forcer
 ```
+### 3. Run the CLI Engine
+***Execute the script directly using the standard Python 3 interpreter***
+```
+python insta_bruteforcer.py
+```
 
